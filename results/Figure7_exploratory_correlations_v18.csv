@@ -1,0 +1,23 @@
+feature_type,feature,biocide,treat_type,n,r,p
+functional module,Metabolism,H2O2,Radiation,3,-0.9842787165947955,0.11303416707724069
+functional module,Metabolism,H2O2,SMG + Radiation,3,-0.5549009182723736,0.6255123272222249
+functional module,Transport,H2O2,Radiation,3,-0.88803938787745,0.3041344234429519
+functional module,Transport,H2O2,SMG + Radiation,2,NA,NA
+functional module,Iron/Siderophore,H2O2,Radiation,3,0.9590400272201984,0.1828389002730996
+functional module,Metabolism,Gentamicin,Radiation,3,-0.2555240473682365,0.8355040041197093
+functional module,Metabolism,Gentamicin,SMG + Radiation,3,-0.9649267745090926,0.16910660031303776
+functional module,Transport,Gentamicin,Radiation,3,-0.5299734756526625,0.6444037477539976
+functional module,Transport,Gentamicin,SMG + Radiation,2,NA,NA
+functional module,Iron/Siderophore,Gentamicin,Radiation,3,-0.20490497497770582,0.868622928529951
+KEGG pathway,Two-component system,H2O2,Radiation,3,-0.5585468836400548,0.6227181720164143
+KEGG pathway,Two-component system,H2O2,SMG + Radiation,3,0.6223404993186988,0.5723638632866968
+KEGG pathway,Carbon metabolism,H2O2,Radiation,3,-0.9019248976960871,0.2843083174928241
+KEGG pathway,Carbon metabolism,H2O2,SMG + Radiation,3,-0.9458596826585668,0.21044308837105785
+KEGG pathway,Phosphotransferase system (PTS),H2O2,Radiation,3,0.7670626853698281,0.4434350185353653
+KEGG pathway,Phosphotransferase system (PTS),H2O2,SMG + Radiation,2,NA,NA
+KEGG pathway,Two-component system,Gentamicin,Radiation,3,0.7816627777664316,0.4287436567866361
+KEGG pathway,Two-component system,Gentamicin,SMG + Radiation,3,0.9834571188194563,0.11595813637750925
+KEGG pathway,Carbon metabolism,Gentamicin,Radiation,3,-0.5033112463689998,0.6642298537041255
+KEGG pathway,Carbon metabolism,Gentamicin,SMG + Radiation,3,-0.49975219375782154,0.6668488152802452
+KEGG pathway,Phosphotransferase system (PTS),Gentamicin,Radiation,3,0.7014159464446603,0.5051031526615843
+KEGG pathway,Phosphotransferase system (PTS),Gentamicin,SMG + Radiation,2,NA,NA
