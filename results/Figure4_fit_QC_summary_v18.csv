@@ -1,0 +1,9 @@
+Condition,Dose,qc_status,n
+1g,0,passed current checks,3
+1g,6.5,passed current checks,3
+1g,13,passed current checks,3
+1g,19.5,passed current checks,3
+SMG,0,passed current checks,3
+SMG,6.5,passed current checks,3
+SMG,13,passed current checks,3
+SMG,19.5,passed current checks,3
