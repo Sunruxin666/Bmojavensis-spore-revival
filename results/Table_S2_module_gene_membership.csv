@@ -1,0 +1,182 @@
+gene_id,KEGG_orthology,functional_annotation,functional_category
+HC660_RS00675,K00564,rsmC; 16S rRNA (guanine1207-N2)-methyltransferase [EC:2.1.1.172],Metabolism
+HC660_RS00890,K06173,"truA, PUS1; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]",Metabolism
+HC660_RS01075,K07106,murQ; N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126],Metabolism
+HC660_RS01625,K00034,gdh; glucose 1-dehydrogenase [EC:1.1.1.47],Metabolism
+HC660_RS01740,K00016,"LDH, ldh; L-lactate dehydrogenase [EC:1.1.1.27]",Metabolism
+HC660_RS01780,K01916,nadE; NAD+ synthase [EC:6.3.1.5],Metabolism
+HC660_RS01825,K00294,E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88],Metabolism
+HC660_RS01855,K21567,fnr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1],Metabolism
+HC660_RS01860,K13542,cobA-hemD; uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75],Metabolism
+HC660_RS01865,K26138,nasE; nitrite reductase [NAD(P)H] small subunit [EC:1.7.1.4],Metabolism
+HC660_RS01870,K26139,"nasD, nasB; nitrite reductase [NAD(P)H] large subunit [EC:1.7.1.4]",Metabolism
+HC660_RS02375,K09988,lyxA; D-lyxose ketol-isomerase [EC:5.3.1.15],Metabolism
+HC660_RS02450,K00158,"spxB, poxL; pyruvate oxidase [EC:1.2.3.3]",Metabolism
+HC660_RS04055,K14338,"cypD_E, CYP102A, CYP505; cytochrome P450 / NADPH-cytochrome P450 reductase [EC:1.14.14.1 1.6.2.4]",Metabolism
+HC660_RS04195,K01728,pel; pectate lyase [EC:4.2.2.2],Metabolism
+HC660_RS04435,K21416,"acoA; acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha [EC:1.1.1.-]",Metabolism
+HC660_RS04440,K21417,"acoB; acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta [EC:1.1.1.-]",Metabolism
+HC660_RS04450,K00382,"DLD, lpd, pdhD; dihydrolipoyl dehydrogenase [EC:1.8.1.4]",Metabolism
+HC660_RS04455,K21405,"acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR",Metabolism
+HC660_RS04600,K06998,"phzF; trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]",Metabolism
+HC660_RS04675,K25617,csbB; lipoteichoic acid polyisoprenyl-phosphate beta-N-acetylglucosaminyltransferase [EC:2.4.-.-],Metabolism
+HC660_RS05265,K03294,"TC.APA; basic amino acid/polyamine antiporter, APA family",Metabolism
+HC660_RS06435,K00208,fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10],Metabolism
+HC660_RS06710,K00123,"fdoG, fdhF, fdwA; formate dehydrogenase major subunit [EC:1.17.1.9]",Metabolism
+HC660_RS06800,K08322,rspB; L-gulonate 5-dehydrogenase [EC:1.1.1.380],Metabolism
+HC660_RS07060,K01447,xlyAB; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28],Metabolism
+HC660_RS07225,K00931,proB; glutamate 5-kinase [EC:2.7.2.11],Metabolism
+HC660_RS07265,K00549,metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14],Metabolism
+HC660_RS07870,K00882,fruK; 1-phosphofructokinase [EC:2.7.1.56],Metabolism
+HC660_RS07985,K00382,"DLD, lpd, pdhD; dihydrolipoyl dehydrogenase [EC:1.8.1.4]",Metabolism
+HC660_RS08125,K02259,"COX15, ctaA; heme a synthase [EC:1.17.99.9]",Metabolism
+HC660_RS08435,K00609,"pyrB, PYR2; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]",Metabolism
+HC660_RS08455,K02823,pyrDII; dihydroorotate dehydrogenase electron transfer subunit,Metabolism
+HC660_RS08470,K00762,pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10],Metabolism
+HC660_RS08485,K00958,"sat, met3; sulfate adenylyltransferase [EC:2.7.7.4]",Metabolism
+HC660_RS08490,K00860,cysC; adenylylsulfate kinase [EC:2.7.1.25],Metabolism
+HC660_RS08495,K02303,cobA; uroporphyrin-III C-methyltransferase [EC:2.1.1.107],Metabolism
+HC660_RS08505,K24866,sirC; precorrin-2 dehydrogenase [EC:1.3.1.76],Metabolism
+HC660_RS08640,K00645,"fabD, MCAT, MCT1; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]",Metabolism
+HC660_RS08645,K00059,"fabG, OAR1; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]",Metabolism
+HC660_RS09180,K00060,tdh; threonine 3-dehydrogenase [EC:1.1.1.103],Metabolism
+HC660_RS09185,K00639,"kbl, GCAT; glycine C-acetyltransferase [EC:2.3.1.29]",Metabolism
+HC660_RS09365,K00525,"E1.17.4.1A, nrdA, nrdE; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]",Metabolism
+HC660_RS09370,K00526,"E1.17.4.1B, nrdB, nrdF; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]",Metabolism
+HC660_RS09915,K00266,gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13],Metabolism
+HC660_RS09920,K00265,gltB; glutamate synthase (NADPH) large chain [EC:1.4.1.13],Metabolism
+HC660_RS10945,K01625,eda; 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42],Metabolism
+HC660_RS10950,K00874,kdgK; 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45],Metabolism
+HC660_RS11695,K01744,aspA; aspartate ammonia-lyase [EC:4.3.1.1],Metabolism
+HC660_RS12210,K03972,pspE; thiosulfate sulfurtransferase [EC:2.8.1.1],Metabolism
+HC660_RS12225,K00605,"gcvT, AMT; glycine cleavage system T protein (aminomethyltransferase) [EC:2.1.2.10]",Metabolism
+HC660_RS12785,K00014,aroE; shikimate dehydrogenase [EC:1.1.1.25],Metabolism
+HC660_RS12820,K00033,"PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]",Metabolism
+HC660_RS13230,K17217,mccB; cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2],Metabolism
+HC660_RS13490,K00010,iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369],Metabolism
+HC660_RS14290,K00239,"sdhA, frdA; succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1]",Metabolism
+HC660_RS15295,K01610,pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49],Metabolism
+HC660_RS16080,K00259,ald; alanine dehydrogenase [EC:1.4.1.1],Metabolism
+HC660_RS16100,K01252,"entB, dhbB, vibB, mxcF; bifunctional isochorismate lyase / aryl carrier protein [EC:3.3.2.1 6.3.2.14]",Metabolism
+HC660_RS16110,K02361,entC; isochorismate synthase [EC:5.4.4.2],Metabolism
+HC660_RS16530,K00632,"fadA, fadI; acetyl-CoA acyltransferase [EC:2.3.1.16]",Metabolism
+HC660_RS16850,K00381,cysI; sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2],Metabolism
+HC660_RS17145,K00134,"GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase (phosphorylating) [EC:1.2.1.12]",Metabolism
+HC660_RS17670,K01443,"nagA, AMDHD2; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]",Metabolism
+HC660_RS17695,K17474,"CYP134A, cypX; pulcherriminic acid synthase [EC:1.14.15.13]",Metabolism
+HC660_RS17700,K17485,yvmC; cyclo(L-leucyl-L-leucyl) synthase [EC:2.3.2.22],Metabolism
+HC660_RS18885,K08264,hdrD; heterodisulfide reductase subunit D [EC:1.8.98.1],Metabolism
+HC660_RS18910,K06131,clsA_B; cardiolipin synthase A/B [EC:2.7.8.-],Metabolism
+HC660_RS19190,K00294,E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88],Metabolism
+HC660_RS19195,K00260,"gudB, rocG; glutamate dehydrogenase [EC:1.4.1.2]",Metabolism
+HC660_RS19390,K00849,"galK, GALK1; galactokinase [EC:2.7.1.6]",Metabolism
+HC660_RS20035,K01745,"hutH, HAL; histidine ammonia-lyase [EC:4.3.1.3]",Metabolism
+HC660_RS20095,K21613,scmP; N-acetylcysteine deacetylase [EC:3.5.1.-],Metabolism
+HC660_RS20115,K24117,scmL; S-(2-succino)cysteine N-acetyltransferase [EC:2.3.1.-],Metabolism
+HC660_RS20120,K24116,scmK; N-acetyl-S-(2-succino)cysteine monooxygenase [EC:1.14.-.-],Metabolism
+HC660_RS20195,K06606,iolI; 2-keto-myo-inositol isomerase [EC:5.3.99.11],Metabolism
+HC660_RS20205,K00010,iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369],Metabolism
+HC660_RS20225,K03338,iolC; 5-dehydro-2-deoxygluconokinase [EC:2.7.1.92],Metabolism
+HC660_RS20230,K03337,iolB; 5-deoxy-glucuronate isomerase [EC:5.3.1.30],Metabolism
+HC660_RS20235,K00140,"mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]",Metabolism
+HC660_RS20275,K18009,"budC; meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.- 1.1.1.76 1.1.1.304]",Metabolism
+HC660_RS20345,K19426,epsI; pyruvyl transferase EpsI [EC:2.-.-.-],Metabolism
+HC660_RS20355,K11476,"gntR; GntR family transcriptional regulator, gluconate operon transcriptional repressor",Metabolism
+HC660_RS20360,K25031,gntK; gluconokinase [EC:2.7.1.12],Metabolism
+HC660_RS20370,K00033,"PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]",Metabolism
+HC660_RS00880,K16787,ecfA2; energy-coupling factor transport system ATP-binding protein [EC:7.-.-.-],Transport
+HC660_RS00885,K16785,ecfT; energy-coupling factor transport system permease protein,Transport
+HC660_RS01200,K08164,"ybcL; MFS transporter, DHA1 family, putative efflux transporter",Transport
+HC660_RS01635,K09815,znuA; zinc transport system substrate-binding protein,Transport
+HC660_RS01705,K08369,"ydjE; MFS transporter, putative metabolite:H+ symporter",Transport
+HC660_RS01745,K03303,"lutP, lctP; lactate permease",Transport
+HC660_RS01885,K02575,"NRT2, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter",Transport
+HC660_RS02245,K14166,ycnJ; copper transport protein,Transport
+HC660_RS02520,K11103,dctA; aerobic C4-dicarboxylate transport protein,Transport
+HC660_RS04200,K03319,"TC.DASS; divalent anion:Na+ symporter, DASS family",Transport
+HC660_RS04305,K03310,"TC.AGCS; alanine or glycine:cation symporter, AGCS family",Transport
+HC660_RS05960,K26937,"dinF, mepA, vmrA; MATE family, multidrug efflux pump",Transport
+HC660_RS06280,K15580,"oppA, mppA; oligopeptide transport system substrate-binding protein",Transport
+HC660_RS07135,K16201,dppC; dipeptide transport system permease protein,Transport
+HC660_RS07145,K16199,dppE; dipeptide transport system substrate-binding protein,Transport
+HC660_RS08430,K02824,"uraA, pyrP; uracil permease",Transport
+HC660_RS10450,K03308,"TC.NSS; neurotransmitter:Na+ symporter, NSS family",Transport
+HC660_RS11935,K19578,"bmr; MFS transporter, DHA1 family, multidrug resistance protein",Transport
+HC660_RS12445,K02040,pstS; phosphate transport system substrate-binding protein,Transport
+HC660_RS13030,K15584,"nikA, cntA; nickel transport system substrate-binding protein",Transport
+HC660_RS13035,K15585,"nikB, cntB; nickel transport system permease protein",Transport
+HC660_RS13040,K15586,"nikC, cntC; nickel transport system permease protein",Transport
+HC660_RS13045,K15587,"nikD, cntD; nickel transport system ATP-binding protein [EC:7.2.2.11]",Transport
+HC660_RS13050,K10824,"nikE, cntF; nickel transport system ATP-binding protein [EC:7.2.2.11]",Transport
+HC660_RS13205,K21993,fdhC; formate transporter,Transport
+HC660_RS15090,K25673,ytcQ; polygalacturonan/rhamnogalacturonan transport system substrate-binding protein,Transport
+HC660_RS15235,K16921,ytrB; acetoin utilization transport system ATP-binding protein,Transport
+HC660_RS15590,K16789,thiT; thiamine transporter,Transport
+HC660_RS15915,K11616,maeN; malate:Na+ symporter,Transport
+HC660_RS16320,K16170,"pucJ, pucK; uric acid permease",Transport
+HC660_RS16825,K02020,modA; molybdate transport system substrate-binding protein,Transport
+HC660_RS16830,K02018,modB; molybdate transport system permease protein,Transport
+HC660_RS17050,K05846,opuBD; osmoprotectant transport system permease protein,Transport
+HC660_RS17065,K05847,opuA; osmoprotectant transport system ATP-binding protein [EC:7.6.2.9],Transport
+HC660_RS17250,K15772,"ganQ, mdxG; arabinogalactan oligomer / maltooligosaccharide transport system permease protein",Transport
+HC660_RS17255,K15771,"ganP, mdxF; arabinogalactan oligomer / maltooligosaccharide transport system permease protein",Transport
+HC660_RS17260,K15770,"cycB, ganO, mdxE; arabinogalactan oligomer / maltooligosaccharide transport system substrate-binding protein",Transport
+HC660_RS17275,K03303,"lutP, lctP; lactate permease",Transport
+HC660_RS18120,K06609,"iolT; MFS transporter, SP family, major inositol transporter",Transport
+HC660_RS18490,K03320,"amt, AMT, MEP; ammonium transporter, Amt family",Transport
+HC660_RS18605,K11962,urtD; urea transport system ATP-binding protein,Transport
+HC660_RS18610,K11961,urtC; urea transport system permease protein,Transport
+HC660_RS18615,K11960,urtB; urea transport system permease protein,Transport
+HC660_RS18620,K11959,urtA; urea transport system substrate-binding protein,Transport
+HC660_RS18985,K27614,albC; antilisterial bacteriocin subtilosin biosynthesis transport system ATP-binding protein,Transport
+HC660_RS18990,K27615,albD; antilisterial bacteriocin subtilosin biosynthesis transport system permease protein,Transport
+HC660_RS19180,K02205,"rocE, rocC; arginine/ornithine permease",Transport
+HC660_RS19320,K02598,nirC; nitrite transporter,Transport
+HC660_RS20085,K04023,eutH; ethanolamine transporter,Transport
+HC660_RS20100,K02028,ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:7.4.2.1],Transport
+HC660_RS20105,K16962,yxeN; putative S-methylcysteine transport system permease protein,Transport
+HC660_RS20110,K16961,yxeM; putative S-methylcysteine transport system substrate-binding protein,Transport
+HC660_RS20210,K06610,"iolF; MFS transporter, SP family, inositol transporter",Transport
+HC660_RS20260,K06609,"iolT; MFS transporter, SP family, major inositol transporter",Transport
+HC660_RS20365,K03299,"TC.GNTP; gluconate:H+ symporter, GntP family",Transport
+HC660_RS20585,K03449,"MFS.CP; MFS transporter, CP family, cyanate transporter",Transport
+HC660_RS08780,K02387,flgB; flagellar basal-body rod protein FlgB,Motility/Chemotaxis
+HC660_RS08800,K02410,fliG; flagellar motor switch protein FliG,Motility/Chemotaxis
+HC660_RS08815,K02413,fliJ; flagellar protein FliJ,Motility/Chemotaxis
+HC660_RS08825,K02414,fliK; flagellar hook-length control protein FliK,Motility/Chemotaxis
+HC660_RS08830,K02389,flgD; flagellar basal-body rod modification protein FlgD,Motility/Chemotaxis
+HC660_RS08835,K02390,flgE; flagellar hook protein FlgE,Motility/Chemotaxis
+HC660_RS08845,K02415,fliL; flagellar protein FliL,Motility/Chemotaxis
+HC660_RS08865,K02418,"fliO, fliZ; flagellar protein FliO/FliZ",Motility/Chemotaxis
+HC660_RS08870,K02419,fliP; flagellar biosynthesis protein FliP,Motility/Chemotaxis
+HC660_RS08875,K02420,fliQ; flagellar biosynthesis protein FliQ,Motility/Chemotaxis
+HC660_RS08880,K02421,fliR; flagellar biosynthesis protein FliR,Motility/Chemotaxis
+HC660_RS08885,K02401,flhB; flagellar biosynthesis protein FlhB,Motility/Chemotaxis
+HC660_RS08890,K02400,flhA; flagellar biosynthesis protein FlhA,Motility/Chemotaxis
+HC660_RS08895,K02404,flhF; flagellar biosynthesis protein FlhF,Motility/Chemotaxis
+HC660_RS08900,K04562,"flhG, fleN; flagellar biosynthesis protein FlhG",Motility/Chemotaxis
+HC660_RS08905,K03412,"cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]",Motility/Chemotaxis
+HC660_RS08910,K03407,"cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]",Motility/Chemotaxis
+HC660_RS08915,K03408,cheW; purine-binding chemotaxis protein CheW,Motility/Chemotaxis
+HC660_RS08920,K03410,cheC; chemotaxis protein CheC,Motility/Chemotaxis
+HC660_RS08925,K03411,cheD; chemotaxis protein CheD [EC:3.5.1.44],Motility/Chemotaxis
+HC660_RS08930,K02405,"fliA, whiG; RNA polymerase sigma factor FliA",Motility/Chemotaxis
+HC660_RS15725,K03406,mcp; methyl-accepting chemotaxis protein,Motility/Chemotaxis
+HC660_RS01585,K09696,natB; sodium transport system permease protein,ROS/Redox
+HC660_RS02500,K07217,ydbD; manganese catalase [EC:1.11.1.6],ROS/Redox
+HC660_RS04935,K03781,"katE, CAT, catB, srpA; catalase [EC:1.11.1.6]",ROS/Redox
+HC660_RS07235,K04063,"osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]",ROS/Redox
+HC660_RS07245,K04063,"osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]",ROS/Redox
+HC660_RS14320,K03671,"TXN, trxA; thioredoxin",ROS/Redox
+HC660_RS14900,K26959,brxC; monothiol bacilliredoxin,ROS/Redox
+HC660_RS19635,K03781,"katE, CAT, catB, srpA; catalase [EC:1.11.1.6]",ROS/Redox
+HC660_RS19850,K03781,"katE, CAT, catB, srpA; catalase [EC:1.11.1.6]",ROS/Redox
+HC660_RS20375,K24119,ahpC; NADH-dependent peroxiredoxin subunit C [EC:1.11.1.26],ROS/Redox
+HC660_RS20380,K03387,ahpF; NADH-dependent peroxiredoxin subunit F [EC:1.8.1.-],ROS/Redox
+HC660_RS04585,K25109,"sirA, fecB, cbrA; iron-siderophore transport system substrate-binding protein",Iron/Siderophore
+HC660_RS04740,K09825,"perR; Fur family transcriptional regulator, peroxide stress response regulator",Iron/Siderophore
+HC660_RS11670,K03711,"fur, zur, furB; Fur family transcriptional regulator, ferric uptake regulator",Iron/Siderophore
+HC660_RS14285,K00240,"sdhB, frdB; succinate dehydrogenase iron-sulfur subunit [EC:1.3.5.1]",Iron/Siderophore
+HC660_RS16795,K25308,"fhuD, ftsB, siuD; ferric hydroxamate/heme transport system substrate-binding protein",Iron/Siderophore
+HC660_RS19430,K07224,efeO; iron uptake system component EfeO,Iron/Siderophore
+HC660_RS20160,K25308,"fhuD, ftsB, siuD; ferric hydroxamate/heme transport system substrate-binding protein",Iron/Siderophore
