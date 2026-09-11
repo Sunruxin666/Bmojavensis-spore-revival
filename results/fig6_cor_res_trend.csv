@@ -1,0 +1,17 @@
+Phenotype,Bin,cor_val,p_val,n_valid
+delta_AUC,Iron/Siderophore,-0.2,0.8,4
+delta_AUC,Metabolism,-0.607142857142857,0.1482311614811614,7
+delta_AUC,Motility/Chemotaxis,-0.2,0.8,4
+delta_AUC,Transport,-0.7142857142857143,0.11078717201166176,6
+delta_lag,Iron/Siderophore,0.4,0.5999999999999999,4
+delta_lag,Metabolism,-0.24999999999999994,0.5887244480896832,7
+delta_lag,Motility/Chemotaxis,0.4,0.5999999999999999,4
+delta_lag,Transport,-0.37142857142857144,0.46847813411078737,6
+delta_growth_rate_coef,Iron/Siderophore,-0.4,0.6000000000000001,4
+delta_growth_rate_coef,Metabolism,-0.607142857142857,0.1482311614811614,7
+delta_growth_rate_coef,Motility/Chemotaxis,-0.2,0.8,4
+delta_growth_rate_coef,Transport,-0.7714285714285715,0.07239650145772594,6
+delta_t50,Metabolism,0.2,0.8,4
+delta_t50,Transport,-0.19999999999999996,0.7470600781046621,5
+delta_germ,Metabolism,-0.4,0.6000000000000001,4
+delta_germ,Transport,-0.09999999999999998,0.8728885715695381,5
